@@ -1,0 +1,3 @@
+[submodule "lib/base64-cpp"]
+	path = lib/base64-cpp
+	url = git@github.com:rhanqtl/base64-cpp.git
